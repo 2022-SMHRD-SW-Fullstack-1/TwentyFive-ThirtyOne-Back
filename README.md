@@ -2,7 +2,7 @@
 SW예비개발자를 위한 SNS구축
 
 # 프로젝트 소개
-![image](https://github.com/2022-SMHRD-SW-Fullstack-1/twentyfive-thirtyone-back/issues/1#issue-1450593324)
+![image](https://user-images.githubusercontent.com/112370791/202052995-ad1615be-2c0c-4c17-ae50-1c2b5ebd68fd.png)
 ![소개](https://user-images.githubusercontent.com/112370791/189012528-9c79877c-cb6b-45b5-96a1-02ba228db65b.PNG)
 
 # 프로젝트 설계
